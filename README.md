@@ -20,7 +20,7 @@ Você precisa ter a linguagem Prolog em seu computador.
 
 1. Abra o terminal de sua preferência;
 2. Faça o git clone do [repositório](https://github.com/amandacls/Kanban.pl/);
-3. Acesse a pasta onde o repositório foi clonado com o comando ‘cd Kanban’;
+3. Acesse a pasta onde o repositório foi clonado com o comando ‘cd Kanban.pl’;
 4. 
 6. Digite 'main.' e inicialize a sua experiência 😉;
 
